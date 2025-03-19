@@ -242,7 +242,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280915/IMG-20250222-WA0496_mdm97h.jpg"
         ],
         "marca": "HONDA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "CIVIC LX",
         "año": "2013",
         "millas": "229,601",
@@ -397,7 +397,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281035/IMG-20250222-WA0237_gyaihj.jpg"
         ],
         "marca": "HONDA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "FIT LX",
         "año": "2016",
         "millas": "147,706",
@@ -428,7 +428,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281046/IMG-20250222-WA0403_cyzsnp.jpg"
         ],
         "marca": "HONDA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "FIT LX",
         "año": "2017",
         "millas": "207,017",
@@ -983,7 +983,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741819443/PHOTO-2025-03-11-22-12-37_5_x8dutw.jpg"
         ],
         "marca": "HONDA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "CRV  EXL ",
         "año": "2015",
         "millas": "189,825",
@@ -1039,7 +1039,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741820446/PHOTO-2025-03-11-22-05-36_hsk8xy.jpg"
         ],
         "marca": "HONDA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "Fit ex",
         "año": "2016",
         "millas": "72xxx",

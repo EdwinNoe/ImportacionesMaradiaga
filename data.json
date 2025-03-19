@@ -1465,7 +1465,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281228/IMG-20250222-WA0364_xmrpfi.jpg"
         ],
         "marca": "TOYOTA",
-        "vendido":false,
+        "vendido":true,
         "modelo": "RAV-4",
         "año": "2013",
         "millas": "153,183",

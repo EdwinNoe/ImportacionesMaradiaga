@@ -1,34 +1,5 @@
 [
     {
-        "id": "car-0001",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280867/IMG-20250222-WA0067_rxp2ya.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280863/IMG-20250222-WA0054_x2hkds.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280862/IMG-20250222-WA0053_ijft07.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280862/IMG-20250222-WA0052_ocecog.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280864/IMG-20250222-WA0057_isevfo.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280865/IMG-20250222-WA0056_e5ivxk.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280866/IMG-20250222-WA0065_yeg2of.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280865/IMG-20250222-WA0062_n535ii.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280864/IMG-20250222-WA0060_jicccm.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280866/IMG-20250222-WA0064_i2knyj.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280865/IMG-20250222-WA0063_dd9c1y.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280865/IMG-20250222-WA0061_fbn8al.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280864/IMG-20250222-WA0059_kkscja.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280864/IMG-20250222-WA0058_it2xzy.jpg"
-        ],
-        "marca": "CHEVROLET",
-        "vendido":false,
-        "modelo": "COLORADO Z71  4*4",
-        "año": "2016",
-        "millas": "175,099",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ENCIENDE",
-        "detalles": "",
-        "precio": "283,000",
-        "grua_incluida": "NO"
-    },
-    {
         "id": "car-0002",
         "imagen_url": [
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280871/IMG-20250222-WA0463_vodslc.jpg",

@@ -148,7 +148,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280893/IMG-20250222-WA0278_kobgvx.jpg"
         ],
         "marca": "FORD",
-        "vendido":false,
+        "vendido":true,
         "modelo": "EXPLORER XLT",
         "año": "2020",
         "millas": "117,977",

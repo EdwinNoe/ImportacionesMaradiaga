@@ -1046,37 +1046,6 @@
         "grua_incluida": "NO "
     },
     {
-        "id": "car-0037",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821416/PHOTO-2025-03-11-22-00-21_pakidw.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821414/PHOTO-2025-03-11-22-00-21_1_j7zi4n.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821416/PHOTO-2025-03-11-22-00-22_2_p19a6m.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821417/PHOTO-2025-03-11-22-00-22_3_lo1d1p.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821418/PHOTO-2025-03-11-22-00-22_4_gwikvy.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821419/PHOTO-2025-03-11-22-00-22_5_kcjitk.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821420/PHOTO-2025-03-11-22-00-22_v0lfsm.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821421/PHOTO-2025-03-11-22-00-23_1_voa4fr.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821423/PHOTO-2025-03-11-22-00-23_3_rl4lel.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821423/PHOTO-2025-03-11-22-00-23_2_chnpqb.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821425/PHOTO-2025-03-11-22-00-23_4_zfvxwu.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821426/PHOTO-2025-03-11-22-00-23_5_peaklk.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821427/PHOTO-2025-03-11-22-00-23_skwojz.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821428/PHOTO-2025-03-11-22-00-24_sgqmwa.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821428/PHOTO-2025-03-11-22-00-24_1_qggitl.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821429/PHOTO-2025-03-11-22-00-22_1_rk654w.jpg"
-        ],
-        "marca": "HYUNDAI",
-        "vendido": false,
-        "modelo": "Santa Fe",
-        "año": "2019",
-        "millas": "143,525",
-        "fecha_ingreso": "",
-        "codigo_inicio": "Enciende y camina",
-        "detalles": "",
-        "precio": "260,000",
-        "grua_incluida": "NO "
-    },
-    {
         "id": "car-0038",
         "imagen_url": [
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1741821639/PHOTO-2025-03-11-22-09-37_1_t9yqva.jpg",

@@ -142,7 +142,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1742860714/PHOTO-2025-03-23-20-46-46_3_jybhmv.jpg"
         ],
         "marca": "KIA",
-        "vendido": false,
+        "vendido": true,
         "modelo": "SORENTO",
         "año": "2016",
         "millas": "170,095",
@@ -199,7 +199,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280869/IMG-20250222-WA0119_bmdzan.jpg"
         ],
         "marca": "FORD",
-        "vendido": false,
+        "vendido": true,
         "modelo": "ESCAPE S",
         "año": "2014",
         "millas": "181,713",
@@ -575,7 +575,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281174/IMG-20250222-WA0371_p01hgz.jpg"
         ],
         "marca": "HYUNDAI",
-        "vendido": false,
+        "vendido": true,
         "modelo": "SANTA FE SPORT 2.0T",
         "año": "2013",
         "millas": "104,379",

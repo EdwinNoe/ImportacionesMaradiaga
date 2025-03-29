@@ -586,40 +586,6 @@
         "grua_incluida": "NO"
     },
     {
-        "id": "car-0019",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281186/IMG-20250222-WA0301_jjwkqu.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281200/IMG-20250222-WA0317_c5u71d.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281195/IMG-20250222-WA0311_siedur.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281189/IMG-20250222-WA0304_k2ishf.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281188/IMG-20250222-WA0303_ubfonp.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281187/IMG-20250222-WA0302_snrtp3.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281185/IMG-20250222-WA0299_bsz3iv.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281190/IMG-20250222-WA0307_j9se7g.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281194/IMG-20250222-WA0309_urm7nb.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281197/IMG-20250222-WA0314_of4qsq.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281200/IMG-20250222-WA0316_tnye8d.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281189/IMG-20250222-WA0305_bev3fd.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281197/IMG-20250222-WA0315_cgmhza.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281185/IMG-20250222-WA0300_d8a43y.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281190/IMG-20250222-WA0306_enqjxa.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281194/IMG-20250222-WA0310_xj7kwe.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281196/IMG-20250222-WA0312_wgzyjw.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281194/IMG-20250222-WA0308_zshcvj.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281196/IMG-20250222-WA0313_ww4zky.jpg"
-        ],
-        "marca": "HYUNDAI",
-        "vendido": false,
-        "modelo": "SANTA FE SPORT",
-        "año": "2018",
-        "millas": "139,635",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ENCIENDE Y CAMINA",
-        "detalles": "",
-        "precio": "192,000",
-        "grua_incluida": "NO"
-    },
-    {
         "id": "car-0020",
         "imagen_url": [
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281213/IMG-20250222-WA0334_nmmvfy.jpg",

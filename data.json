@@ -84,9 +84,9 @@
         "año": "2014",
         "millas": "182,038",
         "fecha_ingreso": "",
-        "codigo_inicio": "Estacionario",
+        "codigo_inicio": "Enciende y camina ",
         "detalles": "",
-        "precio": "125,000",
+        "precio": "132,000",
         "grua_incluida": "NO"
     },
     {
@@ -142,7 +142,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1742860714/PHOTO-2025-03-23-20-46-46_3_jybhmv.jpg"
         ],
         "marca": "KIA",
-        "vendido": true,
+        "vendido": false,
         "modelo": "SORENTO",
         "año": "2016",
         "millas": "170,095",
@@ -261,7 +261,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280877/IMG-20250222-WA0323_iimzg8.jpg"
         ],
         "marca": "FORD",
-        "vendido": false,
+        "vendido": true,
         "modelo": "EXPLORER XLT",
         "año": "2012",
         "millas": "181,930",
@@ -357,7 +357,7 @@
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280917/IMG-20250222-WA0137_jhih2j.jpg"
         ],
         "marca": "HONDA",
-        "vendido": false,
+        "vendido": true,
         "modelo": "CRV 4x4",
         "año": "2015",
         "millas": "121,825",
@@ -396,36 +396,6 @@
         "codigo_inicio": "ESTACIONARIO",
         "detalles": "",
         "precio": "190,000",
-        "grua_incluida": "NO"
-    },
-    {
-        "id": "car-0011",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281011/IMG-20250222-WA0360_ots9oc.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281012/IMG-20250222-WA0361_ansfzn.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281012/IMG-20250222-WA0405_pyfj90.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281015/IMG-20250222-WA0413_hjy77a.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281014/IMG-20250222-WA0410_laysbm.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281013/IMG-20250222-WA0406_ixtm86.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281011/IMG-20250222-WA0359_zh0y3v.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281013/IMG-20250222-WA0408_pqykjj.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281014/IMG-20250222-WA0409_se6sy9.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281015/IMG-20250222-WA0412_beyvto.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281014/IMG-20250222-WA0411_epif06.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281016/IMG-20250222-WA0414_ziwydn.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281016/IMG-20250222-WA0419_kdepid.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281013/IMG-20250222-WA0407_owkwjj.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740281016/IMG-20250222-WA0415_zlw7jj.jpg"
-        ],
-        "marca": "HONDA",
-        "vendido": false,
-        "modelo": "FIT EX",
-        "año": "2016",
-        "millas": "170,649",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ESTACIONARIO",
-        "detalles": "",
-        "precio": "159,000",
         "grua_incluida": "NO"
     },
     {

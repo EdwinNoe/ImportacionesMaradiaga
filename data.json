@@ -291,37 +291,6 @@
         "grua_incluida": "NO"
     },
     {
-        "id": "car-0003",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280849/IMG-20250222-WA0389_whrqpn.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280848/IMG-20250222-WA0385_tbw05x.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280846/IMG-20250222-WA0107_hhcuid.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280846/IMG-20250222-WA0102_lmwxbl.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280848/IMG-20250222-WA0388_caggpe.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280848/IMG-20250222-WA0387_vff25a.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280853/IMG-20250222-WA0478_ayttpf.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280851/IMG-20250222-WA0476_xieott.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280851/IMG-20250222-WA0475_wwc63i.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280847/IMG-20250222-WA0383_mgy4pp.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280850/IMG-20250222-WA0474_kdoybf.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280849/IMG-20250222-WA0472_myyu41.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280846/IMG-20250222-WA0105_vutgld.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280848/IMG-20250222-WA0386_qnftms.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280850/IMG-20250222-WA0473_yvgl1n.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280851/IMG-20250222-WA0477_tzptmy.jpg"
-        ],
-        "marca": "FORD",
-        "vendido": false,
-        "modelo": "ESCAPE SE TECHO PANORAMICO",
-        "año": "2016",
-        "millas": "176,957",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ENCIENDE Y CAMINA",
-        "detalles": "",
-        "precio": "122,000",
-        "grua_incluida": "NO"
-    },
-    {
         "id": "car-0005",
         "imagen_url": [
             "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280882/IMG-20250222-WA0123_fgp5w4.jpg",
@@ -350,37 +319,6 @@
         "codigo_inicio": "ENCIENDE Y CAMINA",
         "detalles": "",
         "precio": "195,000",
-        "grua_incluida": "NO"
-    },
-    {
-        "id": "car-0010",
-        "imagen_url": [
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280938/IMG-20250222-WA0171_uln1vn.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280941/IMG-20250222-WA0177_qbvua0.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280940/IMG-20250222-WA0174_kbkeiy.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280940/IMG-20250222-WA0176_knmfx4.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280936/IMG-20250222-WA0019_tpcvut.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280937/IMG-20250222-WA0167_aushhq.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280941/IMG-20250222-WA0178_g0axut.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280937/IMG-20250222-WA0168_c4sjum.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280937/IMG-20250222-WA0169_mpo2z6.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280941/IMG-20250222-WA0179_cvwh22.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280940/IMG-20250222-WA0172_piqo9h.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280939/IMG-20250222-WA0175_tsfmen.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280940/IMG-20250222-WA0173_kclju3.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280938/IMG-20250222-WA0170_qfve4t.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280936/IMG-20250222-WA0166_h7cutm.jpg",
-            "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1740280936/IMG-20250222-WA0165_fmndnz.jpg"
-        ],
-        "marca": "Honda",
-        "vendido": false,
-        "modelo": "CRV EX 4x4",
-        "año": "2012",
-        "millas": "190,533",
-        "fecha_ingreso": "",
-        "codigo_inicio": "ESTACIONARIO",
-        "detalles": "",
-        "precio": "190,000",
         "grua_incluida": "NO"
     },
     {

@@ -300,6 +300,36 @@
         "precio": "295,000",
         "grua_incluida": "No"
     },
+        {
+        "id": "car-0085",
+        "imagen_url": [
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051354/PHOTO-2025-04-29-20-26-06_2_sa86iq.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051354/PHOTO-2025-04-29-20-26-06_lxub0e.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051354/PHOTO-2025-04-29-20-26-06_1_e1rhyk.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051355/PHOTO-2025-04-29-20-26-07_2_zoafj9.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051356/PHOTO-2025-04-29-20-26-07_khbro9.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051356/PHOTO-2025-04-29-20-26-08_bmcf0x.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051356/PHOTO-2025-04-29-20-26-09_1_opd3fx.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051357/PHOTO-2025-04-29-20-26-09_3_fotd5u.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051357/PHOTO-2025-04-29-20-26-09_z0ux6x.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051354/PHOTO-2025-04-29-20-26-07_1_mz2ev4.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051354/PHOTO-2025-04-29-20-26-07_3_ixzckn.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051356/PHOTO-2025-04-29-20-26-08_3_zynq41.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051355/PHOTO-2025-04-29-20-26-08_1_tfwhkx.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051356/PHOTO-2025-04-29-20-26-09_2_ec6jup.jpg",
+           "https://res.cloudinary.com/dcr1nqkkv/image/upload/v1746051357/PHOTO-2025-04-29-20-26-08_2_wd1zp4.jpg"
+        ],
+        "marca": "Honda",
+        "vendido": false,
+        "modelo": "CR-v",
+        "año": "2004",
+        "millas": "209,783",
+        "fecha_ingreso": "",
+        "codigo_inicio": "Enciende y camina",
+        "detalles": "",
+        "precio": "99,000",
+        "grua_incluida": "No"
+    },
     
     {
         "id": "car-0067",
